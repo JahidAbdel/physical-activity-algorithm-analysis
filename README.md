@@ -1,9 +1,13 @@
-# Abdel Jahid's Project
+# Physical Activity Algorithm Analysis
+
+Academic project completed as part of the Applied Algorithms course at the University of Geneva.
+
+This Python project analyses participant step-count data through aggregation, anomaly detection, selection sort, consecutive-streak analysis, and graph-based similarity grouping with breadth-first search (BFS).
 
 ## Prerequisites
 - Python 3.10+
 - `pip` to install Python dependencies
-- `researchdata/` folder with the .CVS files at the root of the project (inside "`abdel-jahid-alg-project/`")
+- A `researchdata/` folder containing the `.csv` files at the root of the project
 ---
 
 ## Installation via Terminal
@@ -11,11 +15,11 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://gitlab.unige.ch/alg-26/spring-2026/abdel-jahid-alg-project.git
-cd abdel-jahid-alg-project
+git clone git@github.com:JahidAbdel/physical-activity-algorithm-analysis.git
+cd physical-activity-algorithm-analysis
 ```
 
-### 2. Create a virtual environnement
+### 2. Create a virtual environment
 
 ***MacOS / Linux:***
 
